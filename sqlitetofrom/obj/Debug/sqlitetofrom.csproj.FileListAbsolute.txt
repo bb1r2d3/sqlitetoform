@@ -1,0 +1,14 @@
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\sqlitetofrom.exe.config
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\sqlitetofrom.exe
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\sqlitetofrom.pdb
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.Form1.resources
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.Properties.Resources.resources
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.csproj.GenerateResource.cache
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.csproj.CoreCompileInputs.cache
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.exe
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.pdb
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\System.Data.SQLite.dll
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\System.Data.SQLite.xml
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\bin\Debug\System.Data.SQLite.dll.config
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.csproj.CopyComplete
+C:\cv-works\coding\winforms\sqlite-access\sqlitetofrom\sqlitetofrom\obj\Debug\sqlitetofrom.csprojAssemblyReference.cache
